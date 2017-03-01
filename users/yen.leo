@@ -1004,7 +1004,8 @@ doc['clear_console'].bind('click',clear_console)
 &lt;textarea id="console" autocomplete="off"&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;div id="common"&gt;&lt;/div&gt;
-@others</t>
+@others
+</t>
 <t tx="yen.20170207091131.2">
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -1044,7 +1045,8 @@ convTemp()
     script1.editor.scrollToRow(0)
     script1.editor.gotoLine(0)
 doc['ex2'].bind('click',ex2)
-&lt;/script&gt;&lt;a id="ex2"&gt;ex2&lt;/a&gt;-溫度換算</t>
+&lt;/script&gt;&lt;a id="ex2"&gt;ex2&lt;/a&gt;-溫度換算
+</t>
 <t tx="yen.20170207091131.4">
 &lt;script type="text/python3"&gt;
 from browser import document
