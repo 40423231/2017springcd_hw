@@ -1175,9 +1175,9 @@ AddConstraint
 
 &lt;h3&gt;子模組程式碼&lt;/h3&gt;
 
-&lt;p&gt;用Bg1的名稱把https://github.com/40423226/2017springcd_bg1的倉儲加入為子模組&lt;/p&gt;
+&lt;p&gt;用cdbw17的名稱把https://github.com/scrum-1/cdbw17.git的倉儲加入為子模組&lt;/p&gt;
 &lt;pre&gt;git submodule add -b gh-pages 子模組網址 子模組名稱
-(例如:git submodule add -b gh-pages https://github.com/40423226/2017springcd_bg1 Bg1)&lt;/pre&gt;
+(例如:git submodule add -b gh-pages https://github.com/scrum-1/cdbw17.git cdbw17)&lt;/pre&gt;
 
 &lt;p&gt;抓對應子模組的版本&lt;/p&gt;
 &lt;pre&gt;git submodule update --init --recursive&lt;/pre&gt;
